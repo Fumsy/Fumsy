@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Fumsy 👋
 
-<!--
-**Fumsy/Fumsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student with a focus on scripting, game development, and software engineering.  
+🛠️ Currently learning Lua and Python etc and working on FiveM projects + personal backend tools.  
+💡 Always looking for ways to improve, contribute, and collaborate on real-world code.
 
-Here are some ideas to get you started:
+### 🔧 Current Stack
+- Languages: Python, Lua, JavaScript (early stage)
+- Tools: VS Code, Git, QB-Core, basic SQL
+- Projects: Personal dev tools, FiveM scripts, university coursework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach Me
+- Discord: `Fumsyy`
+- GitHub: You're already here 🙂
